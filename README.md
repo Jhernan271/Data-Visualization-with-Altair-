@@ -1,0 +1,1 @@
+Data Visualization Python project using the Altair library to visualize a 25 year history of offensive football statstics in the NFL. The investigation aimed to correlate a general rise in offensive production over the last 25 years due partly to rule changes that favored offensive players. 
